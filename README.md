@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @filmm0re
 - 👀 I’m interested in Python, Algebra, English. 
-- 🌱 I’m currently learning Python. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning pysics, algebra, geometry, CS. 
 - 📫 How to reach me you.mark24 @ instagram
 
 <!---
